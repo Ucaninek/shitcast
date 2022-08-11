@@ -1,0 +1,16 @@
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\bin\Debug\shitcastClient.exe.config
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\bin\Debug\shitcastClient.exe
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\bin\Debug\shitcastClient.pdb
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.csproj.AssemblyReference.cache
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.csproj.SuggestedBindingRedirects.cache
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.Form1.resources
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.Properties.Resources.resources
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.csproj.GenerateResource.cache
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.csproj.CoreCompileInputs.cache
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.exe
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.pdb
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.Client.resources
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.csproj.CopyComplete
+D:\Users\Hakan\source\repos\shitcastClient\shitcastClient\obj\Debug\shitcastClient.inputBox.resources
